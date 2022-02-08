@@ -1,6 +1,6 @@
 # GPX
 
-![GPX example on California housing dataset](https://raw.githubusercontent.com/yuyay/gpx/image/california_example.png)
+![GPX example on California housing dataset](https://raw.githubusercontent.com/yuyay/gpx/image/california_example.jpg)
 
 GPX is a Gaussian process regression model that can output the feature contributions to the prediction for each sample, which is implemented based on the following paper:  
 **Yuya Yoshikawa, and Tomoharu Iwata. "[Gaussian Process Regression With Interpretable Sample-Wise Feature Weights.](https://ieeexplore.ieee.org/abstract/document/9646444)" IEEE Transactions on Neural Networks and Learning Systems (2021).**
