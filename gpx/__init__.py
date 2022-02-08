@@ -1,0 +1,2 @@
+from .gpx_regressor_module import GPXRegressorModule
+from ._regressor import GPXRegressor
